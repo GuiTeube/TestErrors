@@ -1,0 +1,6 @@
+total 12
+drwxr-xr-x 1 pyl3 197609 0 Sep 30 13:27 ./
+drwxr-xr-x 1 pyl3 197609 0 Sep 30 09:53 ../
+drwxr-xr-x 1 pyl3 197609 0 Sep 30 13:24 .git/
+-rw-r--r-- 1 pyl3 197609 0 Sep 30 13:28 monFichierPush.txt
+-rw-r--r-- 1 pyl3 197609 0 Sep 30 10:01 premierFichier.txt
